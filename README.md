@@ -16,12 +16,17 @@ Mac 跟 Linux 的部分之後再補。... :p
 Python基礎：
 
 * [Python的安裝](https://goo.gl/zczm4x)
+* [Jupyter Notebook使用簡介]
 * [Python的基本語法](https://goo.gl/fNQXep)
+* [Python的基本資料型態]
 * [Python的基本資料結構](https://goo.gl/4VYVA6)
 * [Python的條件式-01](https://goo.gl/WrVkmf)
 * [Python的條件式-02](https://goo.gl/JM9MoN)
+* [Python的迴圈]
 * [Python的函式](https://goo.gl/FW2MmW)
 * [Python的檔案IO-文字檔](https://goo.gl/bsxUqd)
+* [Python的生成式 (Comprehension)]
+* [Python的例外處理]
 
 Flask:
 

@@ -33,7 +33,8 @@ Python基礎：
 * [Python的函式](https://goo.gl/FW2MmW)
 * [Python的檔案IO-文字檔](https://goo.gl/bsxUqd)
 * Python的生成式 (Comprehension)
-* Python的例外處理
+* [Python的例外處理 - 01](https://goo.gl/yLk6gr)
+* [Python的例外處理 - 02](https://goo.gl/9RkQhS)
 
 其他：
 

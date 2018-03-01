@@ -14,7 +14,7 @@ Mac 跟 Linux 的部分之後再補。... :p
 
 * [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc)
 * [電腦工作原理 - 02](https://youtu.be/hwZt5688CIs)
-* [電腦基本操作 - 01](https://goo.gl/AVFtnz)
+* [電腦基本操作 - 01](https://goo.gl/AVFtnz) (跟 [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc) 是不同時間錄的，但是內容有點重複，可跳過。)
 * [電腦基本操作 - 02](https://goo.gl/JAjGA2)
 
 Python基礎：

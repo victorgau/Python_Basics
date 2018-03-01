@@ -11,7 +11,7 @@ Mac 跟 Linux 的部分之後再補。... :p
 計算機基礎：
 
 * [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc)
-* [電腦工作原理 - 02](https://youtu.be/pa_wWOOASy4)
+* [電腦工作原理 - 02](https://youtu.be/hwZt5688CIs)
 * [電腦基本操作 - 01](https://goo.gl/AVFtnz)
 * [電腦基本操作 - 02](https://goo.gl/JAjGA2)
 
@@ -20,8 +20,8 @@ Python基礎：
 * [Python的安裝](https://goo.gl/zczm4x)
 * Python程式如何執行？
 * Python的Hello World!
-* Jupyter Notebook使用簡介
 * \.py跟\.ipynb擋的差別
+* Jupyter Notebook使用簡介
 * Python的基本資料型態
 * [Python的基本語法](https://goo.gl/fNQXep)
 * [Python的基本資料結構](https://goo.gl/4VYVA6)

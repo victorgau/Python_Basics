@@ -20,7 +20,6 @@ Mac 跟 Linux 的部分之後再補。... :p
 Python基礎：
 
 * [Python的安裝](https://goo.gl/zczm4x)
-* Python程式如何執行？
 * Python的Hello World!
 * \.py跟\.ipynb擋的差別
 * Jupyter Notebook使用簡介

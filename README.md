@@ -10,6 +10,8 @@ Mac 跟 Linux 的部分之後再補。... :p
 
 計算機基礎：
 
+發現用 \.flv 的格式，上傳到 YouTube 之後，有時候音訊跟視訊會不同步... orz...
+
 * [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc)
 * [電腦工作原理 - 02](https://youtu.be/hwZt5688CIs)
 * [電腦基本操作 - 01](https://goo.gl/AVFtnz)

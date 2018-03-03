@@ -21,7 +21,7 @@ Python基礎：
 
 * Python簡介
 * [Python的安裝](https://goo.gl/zczm4x)
-* Python的Hello World!
+* [Python的Hello World!](https://youtu.be/yrjft34e52o)
 * 使用Python還是Jupyter Notebook執行程式 (\.py跟\.ipynb擋的差別)？
 * Jupyter Notebook使用簡介
 * Python的基本資料型態

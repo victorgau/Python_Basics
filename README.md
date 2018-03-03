@@ -2,6 +2,8 @@
 
 在這裡彙整一些之前上課時，為了解答學生疑惑錄的影片，希望對大家有幫助。
 
+這些影片介紹的是Python最常用的那20%的東西，但是相信大家熟練了之後，可以解決80%的問題。
+
 因為之前的學生九成以上用的都是 Windows 系統，所以這個影片是針對要在 Windows 上開發來錄製。
 
 Mac 跟 Linux 的部分之後再補。... :p
@@ -29,7 +31,7 @@ Python基礎：
 * [Python的基本資料結構](https://goo.gl/4VYVA6)
 * [Python的條件式-01](https://goo.gl/WrVkmf)
 * [Python的條件式-02](https://goo.gl/JM9MoN)
-* Python的迴圈
+* [Python的迴圈](https://youtu.be/T5rKWH7_s2A)
 * [Python的函式](https://goo.gl/FW2MmW)
 * [Python的檔案IO-文字檔](https://goo.gl/bsxUqd)
 * Python的生成式 (Comprehension)

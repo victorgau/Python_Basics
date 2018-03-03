@@ -24,7 +24,7 @@ Python基礎：
 * [Python的Hello World!](https://youtu.be/yrjft34e52o)
 * [使用Python還是Jupyter Notebook執行程式？](https://youtu.be/a_SmoqPUZ0s)
 * Jupyter Notebook使用簡介
-* Python的基本資料型態
+* [Python的基本資料型態](https://youtu.be/GB8G6OGeBzA)
 * [Python的基本語法](https://goo.gl/fNQXep)
 * [Python的基本資料結構](https://goo.gl/4VYVA6)
 * [Python的條件式-01](https://goo.gl/WrVkmf)

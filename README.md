@@ -1,6 +1,6 @@
 # Python基礎教學
 
-在這裡彙整一些之前上課時，為了解答學生疑惑錄的影片，希望對大家有幫助。
+在這裡彙整一些之前上課時，為了解答非資訊科系學生的疑惑錄的影片，希望對大家有幫助。
 
 這些影片介紹的是Python最常用的那20%的東西，但是相信大家熟練了之後，可以解決80%的問題。
 
@@ -37,7 +37,14 @@ Python基礎：
 * Python的生成式 (Comprehension)
 * [Python的例外處理 - 01](https://goo.gl/yLk6gr)
 * [Python的例外處理 - 02](https://goo.gl/9RkQhS)
+
+Python進階：
+
+* Decorator
 * Python的物件導向程式設計(OOP)
+* Numpy簡介
+* MatPlotLib簡介
+* Pandas簡介
 
 其他：
 

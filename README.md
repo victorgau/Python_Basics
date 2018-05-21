@@ -37,10 +37,6 @@ Python基礎：
 * Python的生成式 (Comprehension)
 * [Python的例外處理 - 01](https://goo.gl/yLk6gr)
 * [Python的例外處理 - 02](https://goo.gl/9RkQhS)
-
-Python進階：
-
-* Decorator
 * Python的物件導向程式設計(OOP)
 * Numpy簡介
 * MatPlotLib簡介
@@ -49,6 +45,7 @@ Python進階：
 其他：
 
 * [關於文字編碼](https://goo.gl/cKRJ8j)
+* [函式修飾器 (Decorator)](https://youtu.be/4bHWazsPIvg)
 
 Flask:
 
@@ -63,5 +60,3 @@ Flask:
 Line 機器人：
 
 * [關於 Line 機器人 (使用 ngrok 測試)](https://goo.gl/n4ETTw)
-
-

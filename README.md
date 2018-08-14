@@ -21,7 +21,7 @@ Mac 跟 Linux 的部分之後再補。... :p
 
 Python基礎：
 
-* Python簡介
+* [Python簡介](https://yt1.pics.ee/9R3FH)
 * [Python的安裝](https://goo.gl/zczm4x)
 * [Python的Hello World!](https://youtu.be/yrjft34e52o)
 * [使用Python還是Jupyter Notebook執行程式？](https://youtu.be/a_SmoqPUZ0s)

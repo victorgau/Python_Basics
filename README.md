@@ -38,9 +38,20 @@ Python基礎：
 * [Python的例外處理 - 01](https://goo.gl/yLk6gr)
 * [Python的例外處理 - 02](https://goo.gl/9RkQhS)
 * Python的物件導向程式設計(OOP)
+
+資料科學入門：
+
 * Numpy簡介
 * MatPlotLib簡介
 * Pandas簡介
+
+機器學習入門：
+
+* scikit-learn 簡介
+
+深度學習入門：
+
+* keras 簡介
 
 其他：
 

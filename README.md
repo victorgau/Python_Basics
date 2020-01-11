@@ -1,14 +1,13 @@
 # Python基礎教學
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/victorgau/Python_Basics/master)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgau/Python_Basics/)
+
 在這裡彙整一些之前上課時，為了解答非資訊科系學生的疑惑錄的影片，希望對大家有幫助。
 
 這些影片介紹的是Python最常用的那20%的東西，但是相信大家熟練了之後，可以解決80%的問題。
 
 因為之前的學生九成以上用的都是 Windows 系統，所以這個影片是針對要在 Windows 上開發來錄製。
-
-Mac 跟 Linux 的部分之後再補。... :p
-
-其他缺少的部分，以後有空再錄！
 
 計算機基礎：
 
@@ -16,8 +15,6 @@ Mac 跟 Linux 的部分之後再補。... :p
 
 * [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc)
 * [電腦工作原理 - 02](https://youtu.be/hwZt5688CIs)
-* [電腦基本操作 - 01](https://goo.gl/AVFtnz) (跟 [電腦工作原理 - 01](https://youtu.be/26EaLKPiskc) 是不同時間錄的，但是內容有點重複，可跳過。)
-* [電腦基本操作 - 02](https://goo.gl/JAjGA2)
 
 Python基礎：
 
@@ -25,7 +22,6 @@ Python基礎：
 * [Python的安裝](https://goo.gl/zczm4x)
 * [Python的Hello World!](https://youtu.be/yrjft34e52o)
 * [使用Python還是Jupyter Notebook執行程式？](https://youtu.be/a_SmoqPUZ0s)
-* Jupyter Notebook使用簡介
 * [Python的基本資料型態](https://youtu.be/GB8G6OGeBzA)
 * [Python的基本語法](https://goo.gl/fNQXep)
 * [Python的基本資料結構](https://goo.gl/4VYVA6)
